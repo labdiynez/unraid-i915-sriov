@@ -24,40 +24,8 @@
 <CHANGES>
 ### 2026.10.28
 - Forked repository from giganode.
-
-### 2024.02.19
-- Forked repository from ich777.
-
-### 2023.11.22
-- Only apply patch for libvirt.php on Unraid versions lower than 6.13 - thanks SimonF for implementing that
-
-### 2023.11.21
-- Updated plugin from community developer zhtengw to make sure community is able to use SRIOV
-- Use GitHub Releases for plugin package downloads
-- Be a bit more verbose on plugin installation
-- Add Plugin Update Helper
-- A little bit of code cleanup
-- Please use the original support thread for questions related to the plugin
-
-### 2023.04.06
-- Make change VFs number work;
-- Add option for saving to config file only;
-- Add support for unRAID 6.10.x
-
-### 2023.04.01
-- Make tools.sh work with multiple Intel Graphic Cards;
-- Restore libvirt.php when module download failed;
-- Make slot of PCI address to 0 when machine type is q35
-
-### 2023.03.30
-- Add plugin page in Settings;
-- Fix HW transcode not work for PF on linux-5.19
-
-### 2023.03.28
-- Change PCI address of VF to 0000:06:10.0
-
-### 2023.03.21
-- Initial unRAID V6.11 release.
+- Add support for unRAID 7.3.4
+- Add support for unRAID 7.4.0-rc.2
 </CHANGES>
 
 
