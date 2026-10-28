@@ -7,5 +7,5 @@ The plugin driver module is based on: https://github.com/strongtz/i915-sriov-dkm
 ## Usage
 Plugins > Install Plugin (or it can be installed from the Community Apps plugin)
 ```
-https://raw.githubusercontent.com/giganode/unraid-i915-sriov/master/i915-sriov.plg
+https://raw.githubusercontent.com/labdiynez/unraid-i915-sriov/master/i915-sriov.plg
 ```
