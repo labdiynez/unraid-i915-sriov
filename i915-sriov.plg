@@ -17,7 +17,7 @@
         version="&version;"
         launch="&launch;"
         pluginURL="&pluginURL;"
-        min="6.12.4"
+        min="7.3.4"
         support="https://forums.unraid.net/topic/154464-plugin-intel-igpu-sr-iov-support-page/">
 
 
